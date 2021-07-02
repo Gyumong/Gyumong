@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/-Slack-4A154B?logo=Slack&logoColor=white" />
 <img src="https://img.shields.io/badge/-Trello-0079BF?logo=Trello&logoColor=white" />
 <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira&logoColor=white" />
 </p>
 <h3 align="center">
   
