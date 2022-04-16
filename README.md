@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ...Cancel changes
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -44,10 +44,10 @@ Here are some ideas to get you started:
   <a href="mailto: rlaalsrb3559@naver.com" alt="navermail">
     <img src="https://img.shields.io/badge/-Gmail-D14836?logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://rlaalsrb3559.tistory.com/" target="_blank">
+  <a href="https://www.gyumong.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-TechBlog-20c997?logo=Tumblr&logoColor=white" />
   </a>
-  <a href="https://www.notion.so/24b95868778a45e69e4ebae3ef3626e8" target="_blank" alt="resume">
+  <a href="https://www.notion.so/799e0bf9d4e54f95b3a7c2c5308b8f9c" target="_blank" alt="resume">
     <img src="https://img.shields.io/badge/-Portfolio-000000?logo=Notion&logoColor=white" />
   </a>
 </p>
